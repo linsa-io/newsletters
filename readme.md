@@ -35,10 +35,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
 - [The Batch](https://www.deeplearning.ai/thebatch/) - Presents the most important AI events and perspective in a curated, easy-to-read report.
+- [AIMiracle MAG](https://aimiracle.ai) - Daily AI news, tool discoveries & tutorials.
 
 ## Blockchain
 
-- [Build Blockchain](https://www.buildblockchain.tech/newsletter) - Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter) - Blockchain tech without the bullâ a weekly dose of blockchain reality with a heavy bias toward the technical.
 - [Our Network](https://ournetwork.substack.com/) - Weekly crypto analytics insights.
 
 ## Go
@@ -105,7 +106,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Startups
 
 - [AngelList Weekly](https://angel.co/newsletters) - The best of the startup world, curated weekly.
-- [Startup Curated](https://startup.curated.co/) - Startup community’s newsletter with the best content from and for founders. ([Archive](https://startup.curated.co/issues))
+- [Startup Curated](https://startup.curated.co/) - Startup communityâs newsletter with the best content from and for founders. ([Archive](https://startup.curated.co/issues))
 - [Forward Thinking Founders](https://forwardthinking.substack.com/)
 
 ## Swift
@@ -144,7 +145,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## System Design
 
-- [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/) - Newsletter for engineers who refuse to accept “good enough” architecture.
+- [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/) - Newsletter for engineers who refuse to accept âgood enoughâ architecture.
 - [ByteByteGo](https://blog.bytebytego.com/) - Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
 ## Other
@@ -161,7 +162,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Morning Brew](https://www.morningbrew.com/) - Daily email newsletter covering the latest news from Wall St. to Silicon Valley.
 - [Stately](https://www.stately.dev/) - Keep up to date on the latest state insights from all areas of technology. From old research papers to new ideas, explore and discuss concepts and code for improving the way we manage state.
 - [Superorganizers](https://superorganizers.substack.com/) - Investigating how the smartest people in the world organize knowledge to do their best work.
-- [Femstreet](https://femstreet.substack.com/) - Sends out a weekly digest of timely, must-read posts by female investors and operators.
+- [Femstreet](https://femstreet.substack.com/) - Sends out a weeklyÂ digest of timely, must-read posts by female investors and operators.
 - [GWERN](https://gwern.substack.com/)
 - [A Byte of Coding](https://abyteofcoding.com/)
 - [Creative Boom](https://www.creativeboom.com/newsletter/)
