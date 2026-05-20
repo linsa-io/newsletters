@@ -35,6 +35,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
 - [The Batch](https://www.deeplearning.ai/thebatch/) - Presents the most important AI events and perspective in a curated, easy-to-read report.
+- [Creative AI News](https://www.creativeainews.com) - Weekly newsletter covering AI tools and workflows for creative professionals across image generation, video, audio, 3D, and LLM workflows.
 
 ## Blockchain
 
