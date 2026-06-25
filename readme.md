@@ -31,6 +31,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## AI
 
+*   [AI Weekly](https://aiweekly.co) - The few AI news stories that matter, curated since 2015, 3x/week for 44,000+ professionals.
 - [Import AI](https://jack-clark.net/import-ai/) - Weekly newsletter about artificial intelligence. ([Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c))
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
