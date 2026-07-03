@@ -141,6 +141,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Marketing
 
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
+- [Mautic](https://www.mautic.org) - Open-source email marketing automation platform for newsletters, segmentation, and campaign workflows.
 
 ## System Design
 
