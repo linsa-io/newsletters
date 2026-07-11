@@ -57,6 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Investing
 
 - [Capital Minded](http://capitalminded.com/) - Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
+- [Finpresso](https://finpresso.com) - The most important finance and tech news, markets, and money moves.
 
 ## iOS
 
@@ -141,6 +142,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Marketing
 
+- [MarketingShot](https://marketingshot.com) - The latest marketing news, tactics, tools, and campaign breakdowns for marketers.
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
 
 ## System Design
