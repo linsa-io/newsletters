@@ -34,6 +34,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Import AI](https://jack-clark.net/import-ai/) - Weekly newsletter about artificial intelligence. ([Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c))
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
+- [Techpresso](https://dupple.com/techpresso) - Daily AI and tech newsletter delivering the most impactful tech news, curated and explained in 5 minutes.
 - [The Batch](https://www.deeplearning.ai/thebatch/) - Presents the most important AI events and perspective in a curated, easy-to-read report.
 
 ## Blockchain
@@ -56,6 +57,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Investing
 
 - [Capital Minded](http://capitalminded.com/) - Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
+- [Finpresso](https://finpresso.com) - The most important finance and tech news, markets, and money moves.
 
 ## iOS
 
@@ -140,6 +142,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Marketing
 
+- [MarketingShot](https://marketingshot.com) - The latest marketing news, tactics, tools, and campaign breakdowns for marketers.
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
 
 ## System Design
