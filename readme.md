@@ -40,6 +40,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) - Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
 - [Our Network](https://ournetwork.substack.com/) - Weekly crypto analytics insights.
+- [The Bitcoin Act](https://thebitcoinact.xyz) - Twice-weekly newsletter covering Bitcoin law, regulation and policy in the US and internationally.
 
 ## Go
 
